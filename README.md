@@ -103,3 +103,8 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### More Stuff
+
+Check out some of my other stuff on
+[@iammelvink](https://github.com/iammelvink 'https://github.com/iammelvink')
